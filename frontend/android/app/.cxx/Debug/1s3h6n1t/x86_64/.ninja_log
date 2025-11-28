@@ -1,0 +1,18 @@
+# ninja log v5
+6	4345	1764011632997006394	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	fca627a63b3b7756
+9	3087	1764011631735669386	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	31997386895d16e
+6	3995	1764011632652265479	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	4602c02e56e605bc
+7	2259	1764011630920681748	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	64aca485efcc4098
+5	3963	1764011632610400689	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	988fee18d0422a9e
+6	4641	1764011633285260825	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	843652fb5c1a8ef4
+6	2755	1764011631411405981	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	8b1ba6367a7aec75
+6	112	1764280704665757509	build.ninja	ce2385b5668302d9
+4818	4880	1764011633551699562	/home/hplat/dev/prj/chat-app/frontend/android/app/build/intermediates/cxx/Debug/1s3h6n1t/obj/x86_64/libreact_codegen_safeareacontext.so	f7f81963f98f2d88
+7	2674	1764280616677301594	CMakeFiles/appmodules.dir/OnLoad.cpp.o	81dd52eef3cc6044
+5	4817	1764011633465746822	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	a0bb3657a009ee77
+7	4088	1764280618078182104	CMakeFiles/appmodules.dir/home/hplat/dev/prj/chat-app/frontend/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	9a544f310356f69e
+0	6	0	clean	2d2f43cf2094d251
+4088	4156	1764280618181864902	/home/hplat/dev/prj/chat-app/frontend/android/app/build/intermediates/cxx/Debug/1s3h6n1t/obj/x86_64/libappmodules.so	b642344a832ace47
+0	3	0	/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/x86_64/CMakeFiles/cmake.verify_globs	230cdb24e8eb3896
+7	3477	1764011632127648224	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/hplat/dev/prj/chat-app/frontend/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	45a8bebb1c4d7352
+1	4	0	/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/x86_64/CMakeFiles/cmake.verify_globs	230cdb24e8eb3896

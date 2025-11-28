@@ -1,0 +1,16 @@
+./frontend/node_modules
+./backend/target
+./backend/.idea
+
+.env
+.env.local
+
+frontend/android/.gradle
+frontend/android/app/build
+frontend/android/.idea
+frontend/android/local.properties
+frontend/andorid/app/debug.keystore
+frontend/*.apk
+frontend/*.so
+frontend/ios
+

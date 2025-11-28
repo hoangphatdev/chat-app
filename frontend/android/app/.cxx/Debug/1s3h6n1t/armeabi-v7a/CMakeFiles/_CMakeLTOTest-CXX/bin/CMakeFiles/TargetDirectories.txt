@@ -1,0 +1,4 @@
+/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/hplat/dev/prj/chat-app/frontend/android/app/.cxx/Debug/1s3h6n1t/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

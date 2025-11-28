@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",           // Phiên bản JS output
+    "module": "esnext",           // Module system
+    "jsx": "react-native",        // React Native JSX
+    "allowJs": true,              // Cho phép file .js vẫn dùng được
+    "skipLibCheck": true,         // Bỏ kiểm tra types của thư viện
+    "noEmit": true,               // Không xuất ra file JS (RN bundler tự handle)
+    "isolatedModules": true       // Bắt buộc mỗi file là một module riêng
+  },
+  "extends": "@react-native/typescript-config",
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
